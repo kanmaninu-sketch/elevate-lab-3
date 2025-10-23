@@ -1,6 +1,6 @@
 # Elevate Lab 3 – AWS VPC Setup
 
-## VPC Details
+## VPC Details- "elevate 3"
 - **CIDR**: `10.0.0.0/24`
 - **Region**: `ap-south-1` (Mumbai)
 - **Availability Zone**: `ap-south-1b`
